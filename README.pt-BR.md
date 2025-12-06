@@ -95,13 +95,16 @@ Esta demonstração apresenta a **execução em tempo real do endpoint de Webhoo
 
 ## 🚀 Guia de Instalação e Execução
 
-### Configuração do Ambiente  
+### Configuração do Ambiente
 Crie e ative um ambiente virtual:
 
-Bash  
-python -m venv venv  
-# Ativar (Windows PowerShell)  
+**Bash**
+```bash
+python -m venv venv 
+
+# Ativação no Windows (PowerShell)  
 .\venv\Scripts\Activate.ps1
+```
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
