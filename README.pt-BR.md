@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/banner-pt.png" alt="Smart WhatsApp AI CRM - Banner PT-BR" width="100%">
+</p>
+
 # 🤖 Smart WhatsApp AI CRM — Assistente Virtual Inteligente de Vendas (FastAPI + Gemini + PostgreSQL)
 
 ![Python](https://img.shields.io/badge/Python-3.13%2B-blue?style=flat&logo=python)
