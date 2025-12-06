@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="README.pt-BR.md">
+    <img src="https://img.shields.io/badge/🇧🇷-Versão%20em%20Português-green?style=for-the-badge"/>
+  </a>
+</p>
+
 # 🤖 Smart WhatsApp AI CRM — Intelligent Virtual Sales Assistant (FastAPI + Gemini + PostgreSQL)
 
 ![Python](https://img.shields.io/badge/Python-3.13%2B-blue?style=flat&logo=python)
@@ -152,22 +158,25 @@ This project demonstrates production-ready expertise in **Backend Engineering, A
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
-Author: Neusa Magalhães  
-Role: AI Automation Engineer | Backend Developer | CRM & API Integrations  
-Project Status: Functional MVP — Production Ready
+**Author:** Neusa Magalhães  
+**Role:** AI Automation Engineer | Backend Developer | CRM & API Integrations  
+**Email:** [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+**LinkedIn:** [https://www.linkedin.com/in/neusam21](https://www.linkedin.com/in/neusam21)  
+**Project Status:** Functional MVP — Production Ready  
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — you are free to use, modify, and distribute this software for educational and commercial purposes, provided that the original copyright and license notice are included.
+This project is licensed under the **MIT License**.  
+See the official license file:  
+👉 [LICENSE](LICENSE)
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
 <p align="left">
   <a href="https://github.com/NeusaM21">
-    <img src="https://img.shields.io/badge/⬅️-Voltar%20para%20o%20portfólio%20principal-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/⬅️-Back%20to%20main%20portfolio-blue?style=for-the-badge"/>
   </a>
 </p>
-
 
