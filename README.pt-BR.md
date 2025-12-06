@@ -162,14 +162,19 @@ Este projeto demonstra domínio prático em Engenharia Backend, Automação com 
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
-Autor: Neusa Magalhães  
-Cargo: AI Automation Engineer | Backend Developer | CRM & API Integrations  
-Status do Projeto: MVP Funcional — Pronto para Produção  
+**Autor:** Neusa Magalhães  
+**Cargo:** AI Automation Engineer | Backend Developer | CRM & API Integrations  
+**Email:** [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+**LinkedIn:** [https://www.linkedin.com/in/neusam21](https://www.linkedin.com/in/neusam21)  
+**Status do Projeto:** MVP Funcional — Pronto para Produção  
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
 ## 📄 Licença
-Este projeto está licenciado sob a **Licença MIT** — você é livre para usar, modificar e distribuir este software para fins educacionais e comerciais, desde que o aviso de direitos autorais e a licença original sejam mantidos.
+
+Este projeto está licenciado sob a **Licença MIT**.  
+Consulte o arquivo oficial:  
+👉 [LICENSE](LICENSE)
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
@@ -178,6 +183,5 @@ Este projeto está licenciado sob a **Licença MIT** — você é livre para usa
     <img src="https://img.shields.io/badge/⬅️-Voltar%20para%20o%20portfólio%20principal-blue?style=for-the-badge"/>
   </a>
 </p>
-
 
 
