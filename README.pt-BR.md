@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="#smart-whatsapp-ai-crm--assistente-virtual-inteligente-de-vendas-fastapi--gemini--postgresql">
-    <img src="https://img.shields.io/badge/🇧🇷-Versão%20em%20Português-green?style=for-the-badge"/>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇺🇸-English%20Version-blue?style=for-the-badge"/>
   </a>
 </p>
 
