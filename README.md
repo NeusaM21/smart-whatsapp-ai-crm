@@ -108,10 +108,11 @@ pip install -r requirements.txt
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
-### Configuration (.env File)  
+#### Configuration (.env File)
 Create a file named `.env` in the project root and populate it with your confidential keys:
 
-# Gemini API Key  
+**Gemini API Key**
+```env
 GEMINI_API_KEY="YOUR_GEMINI_API_KEY_HERE"
 
 # Supabase / PostgreSQL Connection String (SQLAlchemy Async Format)  
@@ -119,6 +120,7 @@ SUPABASE_URL="postgresql+asyncpg://[USER]:[PASSWORD]@[HOST]:[PORT]/[DB_NAME]"
 
 # WhatsApp Webhook Verification Token (Meta/Facebook)  
 VERIFY_TOKEN="YOUR_WHATSAPP_VERIFY_TOKEN"
+```
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
