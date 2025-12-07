@@ -104,13 +104,16 @@ This demo demonstrates the **real-time execution of the WhatsApp Webhook endpoin
 
 ## 🚀 Setup and Installation Guide
 
+```env
 ### Environment Setup  
 Create and activate a virtual environment:
 
 Bash  
 python -m venv venv  
+
 # Activate (Windows PowerShell)  
 .\venv\Scripts\Activate.ps1
+```
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
