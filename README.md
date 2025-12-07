@@ -82,7 +82,11 @@ This demo demonstrates the **real-time execution of the WhatsApp Webhook endpoin
 - Asynchronous PostgreSQL persistence is active
 - End-to-end request/response pipeline is stable
 
-*(A recorded GIF/video of this execution is attached below to demonstrate the system running in real time.)*
+*(A recorded GIF of this execution is attached below to demonstrate the system running in real time.)*
+
+<p align="center">
+  <img src="assets/smart-assistant-demo.gif" alt="Demo do sistema" width="500"/>
+</p>
 
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
