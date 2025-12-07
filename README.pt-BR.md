@@ -84,6 +84,10 @@ Esta demonstração apresenta a **execução em tempo real do endpoint de Webhoo
 
 *(Um GIF ou vídeo gravado desta execução pode ser adicionado abaixo para demonstrar o sistema funcionando em tempo real.)*
 
+<p align="center">
+  <img src="assets/smart-assistant-demo.gif" alt="Demo do sistema" width="500"/>
+</p>
+
 <hr style="border: 0.5px solid #e5e5e5; margin: 20px 0;">
 
 ## 🛠️ Tecnologias Utilizadas
